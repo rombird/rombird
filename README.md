@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to-nl-rombird's%20github&height=400&color=FD866E&fontColor=957C62" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&text=Welcome%20to-nl-rombird's%20github&height=400&color=FD866E&fontColor=504E76" />
 </div>
 <div align="center">
-  <img src="https://mblogthumb-phinf.pstatic.net/20140219_132/artboynhw_1392808762822ujnBX_JPEG/P20140219_001405000_78A037E8-B3D1-4206-9AD8-2F72021B1EB7.PNG?type=w2" width=200px height=200px/>
+  <img src="https://i.pinimg.com/1200x/4c/54/64/4c5464fdb76ed515789dd55613556d95.jpg" width="150" height="150" float="left" margin-right="20"/>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
